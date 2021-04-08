@@ -1,1 +1,2 @@
 哈哈 git 联系一下
+更新一下文档 联系一下git commit git status git add 等等操作
