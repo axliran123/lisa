@@ -2,4 +2,12 @@
 更新一下文档 联系一下git commit git status git add 等等操作
 在进行一次提交的操作 体验一下完整的提交流程 
 git add 文件 git status 检查文件 git commit -m "备注提交信息" 
+
+git log 查看提交的历史记录
+
+
+哈哈 git 联系一下
+更新一下文档 联系一下git commit git status git add 等等操作
+在进行一次提交的操作 体验一下完整的提交流程 
+git add 文件 git status 检查文件 git commit -m "备注提交信息" 
 git log 查看提交的历史记录
